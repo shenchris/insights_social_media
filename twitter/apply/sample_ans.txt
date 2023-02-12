@@ -1,0 +1,31 @@
+In English, please describe how you plan to use Twitter data and/or APIs. The more detailed the response, the easier it is to review and approve. Learn what specific information to include in your use case
+
+I'm a CS undergraduate student at the City University of Hong Kong, and our project wants to analyze how people are friendly/offensive on different platforms toward different topics or based on their gender, region... etc.
+
+
+
+Are you planning to analyze Twitter data?
+Please describe how you will analyze Twitter data including any analysis of Tweets or Twitter users.
+
+Yes, as mentioned above, the data will be collected and analyzed for our project, where we want to analyze how people are friendly/offensive on different platforms toward different topics or based on their gender, region... etc.
+We will try to train the AI model for sentimental analysis and apply it to traditional statistical methods.
+Trying to find is there any interesting fact that can be discovered
+
+
+
+Will your App use Tweet, Retweet, Like, Follow, or Direct Message functionality?
+
+No, we only use it to collect the data and analysis them. The only function we will use is to collect data by tag, author, region... etc
+
+
+
+Do you plan to display Tweets or aggregate data about Twitter content outside Twitter?
+
+No, we don't have the plan to display Tweets or aggregate data about Twitter content outside of Twitter.
+We will only show the model accuracy and statistical result for the report.
+
+
+
+Please list all government entities you intend to provide Twitter content or derived information to under this use case.
+
+No, this is for academic propose. I'll not make Twitter content or derived information available to a government entity.
