@@ -20,5 +20,4 @@ https://developer.twitter.com/en
 
     2. Fill in some quesion, refer to apply/sample_ans.txt
 
-## Usage
 
