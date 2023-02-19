@@ -1,6 +1,6 @@
 ## 1. Brad24: https://brand24.com/
-  Not good to collect raw data for pupolar tag. But will be good for less pupolar tag.
-  
+  Not good to collect raw data.
+    
   Provide some analyze such as mention trend and sentiment trend.
   
   Can apply on FB and Ig too
