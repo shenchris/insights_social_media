@@ -3,6 +3,8 @@
   
   Provide some analyze such as mention trend and sentiment trend.
   
+  Can apply on FB and Ig too
+  
 ## 2. trackmyhashtag: https://www.trackmyhashtag.com/
   2k tweets include retweets each account.
   ### Column:
